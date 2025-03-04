@@ -8,4 +8,4 @@ MPCStats was a [PSE project](https://pse.dev/en/projects/mpc-stats) focused on m
 
 ## 📖 Learn More
 
-For more details, please visit the [Documentation](https://docs.mpcstats.org/).
+For more details, please visit the [Documentation](https://mpcstats.github.io/docs/).
